@@ -1,0 +1,10 @@
+.container input {
+  width: 95%;
+  margin: 10px;
+  height: 30px;
+  font-size: 18px;
+  font-weight: italic;
+}
+li {
+  list-style: none;
+}
